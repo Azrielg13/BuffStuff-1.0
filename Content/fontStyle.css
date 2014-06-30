@@ -1,0 +1,118 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-rpezvb');
+	src:url('fonts/icomoon.eot?#iefix-rpezvb') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-rpezvb') format('woff'),
+		url('fonts/icomoon.ttf?-rpezvb') format('truetype'),
+		url('fonts/icomoon.svg?-rpezvb#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pencil:before {
+	content: "\e600";
+}
+.icon-image:before {
+	content: "\e601";
+}
+.icon-images:before {
+	content: "\e602";
+}
+.icon-camera:before {
+	content: "\e603";
+}
+.icon-play:before {
+	content: "\e604";
+}
+.icon-copy:before {
+	content: "\e605";
+}
+.icon-folder-open:before {
+	content: "\e606";
+}
+.icon-alarm:before {
+	content: "\e607";
+}
+.icon-calendar:before {
+	content: "\e608";
+}
+.icon-calendar2:before {
+	content: "\e609";
+}
+.icon-disk:before {
+	content: "\e60a";
+}
+.icon-user:before {
+	content: "\e60b";
+}
+.icon-lock:before {
+	content: "\e60c";
+}
+.icon-unlocked:before {
+	content: "\e60d";
+}
+.icon-stats:before {
+	content: "\e60e";
+}
+.icon-food:before {
+	content: "\e60f";
+}
+.icon-leaf:before {
+	content: "\e610";
+}
+.icon-meter:before {
+	content: "\e611";
+}
+.icon-fire:before {
+	content: "\e612";
+}
+.icon-accessibility:before {
+	content: "\e613";
+}
+.icon-target:before {
+	content: "\e614";
+}
+.icon-thumbs-up:before {
+	content: "\e615";
+}
+.icon-thumbs-up2:before {
+	content: "\e616";
+}
+.icon-smiley:before {
+	content: "\e617";
+}
+.icon-sad:before {
+	content: "\e618";
+}
+.icon-grin:before {
+	content: "\e619";
+}
+.icon-shocked:before {
+	content: "\e61a";
+}
+.icon-filter:before {
+	content: "\e61b";
+}
+.icon-facebook:before {
+	content: "\e61c";
+}
+.icon-instagram:before {
+	content: "\e61d";
+}
+.icon-twitter:before {
+	content: "\e61e";
+}

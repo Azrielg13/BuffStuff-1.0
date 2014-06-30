@@ -1,0 +1,1 @@
+c:\users\azriel.garcia\documents\visual studio 2013\Projects\BuffStuff\BuffStuff\bin\BundleTransformer.Core.dll
