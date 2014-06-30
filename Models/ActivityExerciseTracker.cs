@@ -6,12 +6,12 @@ using System.Web;
 
 namespace BuffStuff.Models
 {
-    public class ActivityExcerciseTracker : IActivityExcerciseTracker
+    public class ActivityExerciseTracker : IActivityExerciseTracker
     {
 
         public IActivityExercise _Activity { get; set; }
 
-        public ActivityExcerciseTracker(IActivityExercise activity)
+        public ActivityExerciseTracker(IActivityExercise activity)
         {
             this._Activity = activity;
         }

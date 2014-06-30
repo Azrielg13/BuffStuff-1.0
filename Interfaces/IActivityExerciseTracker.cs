@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BuffStuff.Interfaces
 {
-    interface IActivityExcerciseTracker : IActivityTracker
+    interface IActivityExerciseTracker : IActivityTracker
     {
         public virtual IActivityExercise _ActivityExercise { get; set; }
     }
