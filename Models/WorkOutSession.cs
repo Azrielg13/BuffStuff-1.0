@@ -12,5 +12,10 @@ namespace BuffStuff.Models
         public IUser _User { get; set; }
         public DateTime Date { get; set; }
 
+        public void WorkOutSession(IUser user)
+        {
+            this._User = user;
+        }
+
     }
 }
