@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace BuffStuff
+namespace BuffStuff.Web
 {
     public class FilterConfig
     {

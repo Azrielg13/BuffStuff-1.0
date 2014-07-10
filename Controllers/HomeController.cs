@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace BuffStuff.Controllers
+namespace BuffStuff.Web.Controllers
 {
     public class HomeController : Controller
     {
